@@ -8,7 +8,7 @@ Types of Features:
       •	LoanAmount
       •	Loan_Amount_Term
 
-•	Categorical Features:
+Categorical Features:
       •	Loan_ID
       •	Gender
       •	Married
